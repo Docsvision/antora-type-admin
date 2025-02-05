@@ -1,8 +1,7 @@
-name: officework
+name: type-admin
 version: 'dev'
-display_version: 'dev'
 prerelease: true
-title: Делопроизводство 5
+title: Раздел администратора Docsvision
 asciidoc:
   attributes:
     pl-req: '5.5.2 сборка 4553'
@@ -15,10 +14,4 @@ asciidoc:
     ow: 'Делопроизводство 5'
 
 nav:
-- modules/ROOT/nav.adoc
-- modules/common/common.adoc
-- modules/admin/admin.adoc
-- modules/user/user.adoc
-#- modules/sbis/sbis.adoc
-
-#  start_page: ROOT:index.adoc
+- modules/ROOT/type-admin.adoc
