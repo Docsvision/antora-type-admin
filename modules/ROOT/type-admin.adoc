@@ -1,6 +1,8 @@
 .xref:index.adoc[Admin]
 * xref:index.adoc[]
 
+* xref:ROOT:ROOT:timeline.adoc[]
+
 * xref:info.adoc[]
 ** xref:requirements.adoc[]
 *** xref:dev@platform:ROOT:requirements-database.adoc[]
@@ -214,7 +216,10 @@
 *** xref:dev@webclient:admin:connect-https.adoc[]
 *** xref:dev@webclient:admin:thread-pool.adoc[]
 
-* Администрирование модуля Интеграции с операторами ЭДО
+* Администрирование модуля ЭДО
+** xref:dev@edi:ROOT:index.adoc[]
+** xref:dev@edi:ROOT:module-structure.adoc[]
+** xref:dev@edi:ROOT:requirements.adoc[]
 ** xref:dev@edi:admin:install.adoc[]
 ** xref:dev@edi:admin:update-module.adoc[]
 ** xref:dev@edi:admin:admin-functions.adoc[]
@@ -237,3 +242,15 @@
 *** xref:dev@edi:admin:appendix/informal-procedure.adoc[]
 *** xref:dev@edi:admin:appendix/formal-procedure.adoc[]
 *** xref:dev@edi:admin:appendix/web-layouts-buttons.adoc[]
+
+* Администрирование коннектора к Диадок
+** xref:dev@edi:diadoc:general-info.adoc[]
+** xref:dev@edi:diadoc:install.adoc[]
+** xref:dev@edi:diadoc:connection-settings.adoc[]
+** xref:dev@edi:diadoc:attorney.adoc[]
+
+* Администрирование коннектора к СБИС
+** xref:dev@edi:sbis:general-info.adoc[]
+** xref:dev@edi:sbis:install.adoc[]
+** xref:dev@edi:sbis:connection-settings.adoc[]
+** xref:dev@edi:sbis:attorney.adoc[]
