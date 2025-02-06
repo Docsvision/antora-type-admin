@@ -144,6 +144,21 @@
 ** xref:dev@engineer:ROOT:create-cert.adoc[]
 ** xref:dev@mgmtconsole:admin:config.adoc[]
 
+* Работа в {of-mc}
+** xref:dev@mgmtconsole:user:initial-configuration.adoc[]
+** xref:dev@mgmtconsole:user:first-launch.adoc[]
+** xref:dev@mgmtconsole:user:user-interface.adoc[]
+** xref:dev@mgmtconsole:user:settings.adoc[]
+*** xref:dev@mgmtconsole:user:connections-docsvision.adoc[]
+*** xref:dev@mgmtconsole:user:connections-mail-server.adoc[]
+*** xref:dev@mgmtconsole:user:worker-service.adoc[]
+** xref:dev@mgmtconsole:user:widgets.adoc[]
+*** xref:dev@mgmtconsole:user:msg-outgoing.adoc[]
+*** xref:dev@mgmtconsole:user:msg-incoming.adoc[]
+*** xref:dev@mgmtconsole:user:msg-search.adoc[]
+*** xref:dev@mgmtconsole:user:block-error-log.adoc[]
+** xref:dev@mgmtconsole:user:logs.adoc[]
+
 * Администрирование {wc}а
 ** xref:dev@webclient:admin:initial-configuration.adoc[]
 ** xref:dev@webclient:admin:settings-extended.adoc[]
