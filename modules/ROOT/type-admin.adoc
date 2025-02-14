@@ -271,11 +271,11 @@
 ** xref:dev@edi:diadoc:connection-settings.adoc[]
 ** xref:dev@edi:diadoc:attorney.adoc[]
 
-* Администрирование коннектора к СБИС
-** xref:dev@edi:sbis:general-info.adoc[]
-** xref:dev@edi:sbis:install.adoc[]
-** xref:dev@edi:sbis:connection-settings.adoc[]
-** xref:dev@edi:sbis:attorney.adoc[]
+// * Администрирование коннектора к СБИС
+// ** xref:.sbis:general-info.adoc[]
+// ** xref:.sbis:install.adoc[]
+// ** xref:.sbis:connection-settings.adoc[]
+// ** xref:.sbis:attorney.adoc[]
 
 * Администрирование модуля {ad}
 ** xref:dev@approval:admin:install.adoc[]
