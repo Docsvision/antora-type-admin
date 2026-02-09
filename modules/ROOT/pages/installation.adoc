@@ -8,9 +8,17 @@
 ****
 В разделе представлено руководство, позволяющее пошагово установить {dv}.
 
-* xref:pre-config-server.adoc[Предварительная настройка сервера]
-* xref:pre-config-db.adoc[]
-* xref:install-quick-ref.adoc[]
-* xref:installation.adoc[Больше подробностей в навигационном меню слева...]
+* xref:install-linux-quick-ref.adoc[]
+* xref:installation-linux.adoc[Больше подробностей в навигационном меню слева...]
+****
+
+Установка системы на Windows::
++
+.Процесс установки на Windows
+****
+В разделе представлено руководство, позволяющее пошагово установить {dv}.
+
+* xref:install-windows-quick-ref.adoc[]
+* xref:installation-windows.adoc[Больше подробностей в навигационном меню слева...]
 ****
 ====

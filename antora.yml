@@ -1,17 +1,9 @@
 name: type-admin
-version: 'dev'
-prerelease: true
+version: ~
 title: Раздел администратора Docsvision
 asciidoc:
   attributes:
-    pl-req: '5.5.2 сборка 4553'
-    bo-req: '5.5.3 сборка 5367'
-    dm-req: '5.5.3 сборка 5316'
-    wf-req: '5.5.2 сборка 4224'
-    ad-req: '5.5.2 сборка 4221'
-    to-req: '5.5.2 сборка 4203'
-    win-req: '5.5.2 сборка 4248'
-    ow: 'Делопроизводство 5'
+    att: 'val'
 
 nav:
 - modules/ROOT/type-admin.adoc

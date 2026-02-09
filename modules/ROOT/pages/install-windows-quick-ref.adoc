@@ -1,0 +1,1 @@
+include::installguide:ROOT:installation.adoc[]
