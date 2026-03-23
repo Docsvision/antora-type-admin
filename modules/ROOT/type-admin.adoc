@@ -136,7 +136,7 @@
 
 * Администрирование модуля {mc}
 ** xref:6.1@mgmtconsole:admin:install.adoc[]
-** xref:6.1@mgmtconsole:admin:provide-access.adoc[]
+** xref:6.1@mgmtconsole:admin:initial-configuration.adoc[]
 ** xref:6.1@mgmtconsole:admin:update-module.adoc[]
 ** xref:6.1@mgmtconsole:admin:settings-storage-url.adoc[]
 ** xref:6.1@mgmtconsole:admin:extend.adoc[]
