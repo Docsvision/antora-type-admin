@@ -1,6 +1,6 @@
 name: user-type
 version: ~
-title: Раздел администратора Docsvision
+title: Разделы пользователей Docsvision
 asciidoc:
   attributes:
     att: 'val'
