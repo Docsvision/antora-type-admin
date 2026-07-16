@@ -24,8 +24,8 @@
 *** xref:6.1@edi:admin:appendix/formal-procedure.adoc[]
 *** xref:6.1@edi:admin:appendix/web-layouts-buttons.adoc[]
 * Администрирование коннектора к Диадок
-** xref:6.1@edi:general-info.adoc[]
-** xref:6.1@edi:install.adoc[]
-** xref:6.1@edi:connection-settings.adoc[]
-** xref:6.1@edi:attorney.adoc[]
+** xref:6.1@edi:diadoc:general-info.adoc[]
+** xref:6.1@edi:diadoc:install.adoc[]
+** xref:6.1@edi:diadoc:connection-settings.adoc[]
+** xref:6.1@edi:diadoc:attorney.adoc[]
 
