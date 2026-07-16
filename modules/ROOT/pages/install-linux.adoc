@@ -1,1 +1,0 @@
-include::install-linux:ROOT:index.adoc[]

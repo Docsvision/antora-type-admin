@@ -1,4 +1,4 @@
-name: type-admin
+name: type-user
 version: ~
 title: Раздел администратора Docsvision
 asciidoc:
@@ -6,4 +6,8 @@ asciidoc:
     att: 'val'
 
 nav:
-- modules/ROOT/type-admin.adoc
+- modules/common/type-common.adoc
+- modules/admin/type-admin.adoc
+- modules/engineer/type-engineer.adoc
+- modules/user/type-user.adoc
+- modules/programmer/type-programmer.adoc
