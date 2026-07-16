@@ -2,7 +2,7 @@
 * xref:dv6@programmer:ROOT:index.adoc[]
 * xref:dv6@programmer:ROOT:whats-new.adoc[]
 
-* xref:dv6@programmer:development.adoc[]
+* xref:dv6@programmer:ROOT:development.adoc[]
 include::partial$cards.adoc[]
 include::partial$views.adoc[]
 include::partial$solutions.adoc[]

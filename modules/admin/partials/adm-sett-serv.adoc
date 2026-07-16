@@ -3,4 +3,3 @@
 ** xref:6.1@settings-service:admin:update-module.adoc[]
 ** xref:6.1@settings-service:admin:connect-https.adoc[]
 ** xref:6.1@settings-service:admin:log.adoc[]
-** xref:6.1@settings-service:admin:encryption.adoc[]
