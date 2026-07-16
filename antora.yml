@@ -4,7 +4,6 @@ title: Разделы пользователей Docsvision
 asciidoc:
   attributes:
     att: 'val'
-    leveloffset: +1
 
 nav:
 - modules/common/type-common.adoc
