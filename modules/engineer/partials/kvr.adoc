@@ -240,7 +240,6 @@
 **** xref:6.1@webclient:layouts:ctrl/directories/directoryDesignerRow.adoc[]
 **** xref:6.1@webclient:layouts:ctrl/directories/powersDirectory.adoc[]
 **** xref:6.1@webclient:layouts:ctrl/directories/powers.adoc[]
-**** xref:6.1@webclient:layouts:ctrl/directories/directoryItemsCollection.adoc[]
 
 *** xref:6.1@webclient:layouts:ctrl/standard/index.adoc[]
 **** xref:6.1@webclient:layouts:ctrl/standard/htmlTag.adoc[]

@@ -30,7 +30,6 @@
 ** xref:6.2@mgmtconsole:admin:ldaps-authentication.adoc[]
 ** xref:6.2@mgmtconsole:admin:update-module.adoc[]
 ** xref:6.2@mgmtconsole:admin:settings-storage-url.adoc[]
-** xref:6.2@mgmtconsole:admin:create-cert.adoc[]
 
 * xref:6.2@mgmtconsole:servers:index.adoc[]
 ** xref:6.2@mgmtconsole:servers:appserver.adoc[]

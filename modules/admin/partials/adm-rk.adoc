@@ -5,7 +5,7 @@
 ** xref:6.1@resource-kit:admin:install.adoc[]
 
 * Руководство пользователя
-** xref:6.1@resource-kit:launch.adoc[]
+** xref:6.1@resource-kit:user:launch.adoc[]
 ** xref:6.1@resource-kit:console:util.adoc[]
 *** xref:6.1@resource-kit:console:db-settings.adoc[]
 *** xref:6.1@resource-kit:console:section-transformations-generator.adoc[]
