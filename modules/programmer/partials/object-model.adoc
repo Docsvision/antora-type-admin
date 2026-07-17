@@ -1,2 +1,0 @@
-** xref:dv6@programmer:DocsVisionObjectModel:class-lib.adoc[]
-*** xref:dv6@programmer:DocsVisionObjectModel:DocsVision/DocsVision_NS.adoc[]

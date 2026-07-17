@@ -1,7 +1,0 @@
-* xref:index.adoc[]
-
-** xref:ROOT:ROOT:timeline.adoc[]
-
-include::partial$engineer.adoc[]
-include::partial$kvr.adoc[]
-include::partial$schemas.adoc[]

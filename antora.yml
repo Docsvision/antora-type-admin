@@ -1,14 +1,9 @@
-name: user-type
+name: user-type-common
 version: ~
-title: Разделы пользователей Docsvision
+title: Общий раздел Docsvision
 asciidoc:
   attributes:
     att: 'val'
 
 nav:
-- modules/ROOT/nav.adoc
-- modules/common/type-common.adoc
-- modules/admin/type-admin.adoc
-- modules/engineer/type-engineer.adoc
-- modules/user/type-user.adoc
-- modules/programmer/type-programmer.adoc
+- modules/ROOT/type-common.adoc

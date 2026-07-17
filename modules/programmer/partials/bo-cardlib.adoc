@@ -1,3 +1,0 @@
-**** xref:dv6@programmer:BackOffice-CardLib:BackOffice_NS.adoc[]
-***** xref:dv6@programmer:BackOffice-CardLib:CardLib_NS.adoc[]
-****** xref:dv6@programmer:BackOffice-CardLib:CardDefs/CardDefs_NS.adoc[]

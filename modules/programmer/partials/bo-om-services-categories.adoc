@@ -1,5 +1,0 @@
-******* xref:dv6@programmer:BackOffice-ObjectModel-Services-ICategoriesService:ICalendarService_IN.adoc[]
-******* xref:dv6@programmer:BackOffice-ObjectModel-Services-ICategoriesService:ICategoriesService_IN.adoc[]
-******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICategoriesService:ICategoriesService.AddCategory_MT.adoc[]
-******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICategoriesService:ICategoriesService.FindCategoryByName_MT.adoc[]
-******** xref:dv6@programmer:BackOffice-ObjectModel-Services-ICategoriesService:ICategoriesService.PasteCategory_MT.adoc[]

@@ -1,0 +1,5 @@
+.xref:index.adoc[Разделы пользователей]
+* xref:index.adoc[]
+
+include::partial$system.adoc[]
+include::partial$commons.adoc[]
