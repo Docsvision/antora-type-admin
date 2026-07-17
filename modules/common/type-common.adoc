@@ -1,5 +1,4 @@
-.xref:index.adoc[Общее и требования]
 * xref:index.adoc[]
 
-include::partial$system.adoc[leveloffset=+1]
-include::partial$commons.adoc[leveloffset=+1]
+include::partial$system.adoc[]
+include::partial$commons.adoc[]

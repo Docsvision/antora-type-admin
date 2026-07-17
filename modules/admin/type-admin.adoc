@@ -1,4 +1,3 @@
-.xref:index.adoc[Admin]
 * xref:index.adoc[]
 
 include::partial$install-windows.adoc[]
