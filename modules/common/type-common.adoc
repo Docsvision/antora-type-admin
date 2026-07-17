@@ -1,4 +1,2 @@
-* xref:index.adoc[]
-
 include::partial$system.adoc[]
 include::partial$commons.adoc[]
