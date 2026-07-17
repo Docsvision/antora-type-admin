@@ -1,4 +1,4 @@
-* xref:index.adoc[Раздел для разработчиков]
+** xref:index.adoc[Раздел для разработчиков]
 ** xref:dv6@programmer:ROOT:index.adoc[]
 ** xref:dv6@programmer:ROOT:whats-new.adoc[]
 
